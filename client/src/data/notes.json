@@ -1,0 +1,31 @@
+
+[
+    {
+        "section" : 1,
+        "title" : "Introduction",
+        "notes" : [
+            {
+                "id" : 1,
+                "subsection" : "What is figma and is it better then other design programs",
+                "list" : [
+                    {
+                        "id" : 1,
+                        "item" : "Figam is a free deesign program that allows you to create awesome web and design projects so websites, Android apps, and IOS apps"
+                    },
+                    {
+                        "id" : 2,
+                        "item" : "Several users can work on aa single project at once"
+                    },
+                    {
+                        "id" : 3,
+                        "item" : "You can use figma in your web browser"
+                    },
+                    {
+                        "id" : 4,
+                        "item" : "figma is focuse on web and app design"
+                    }
+                ]
+            }
+        ]
+    }
+]
